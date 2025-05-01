@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "38c11a8d47557677",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbde387954a67f19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8424dee39880a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d340561a498369a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe129e176e0eb8af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db0fa59aa61695f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "45596b5822444f32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e8dae0987aa11ab9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "0b9cd2405bb7a110",
+    "type": "split",
+    "children": [
+      {
+        "id": "65a15f96bbbeb01d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8a0a9d9c322b15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "2b19b9158f35f768",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "8545e733e817fb7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bfeef0d835c9e540",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "9958b62fe14a9f51",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "00ae10080d56eb79",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "eac8f7194202dc84",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0db0fa59aa61695f",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "Excalidraw/Drawing 2025-05-01 17.52.11.excalidraw.md",
+    "Excalidraw",
+    "数学技巧/特殊积分.md",
+    "数学技巧/矢量与张量分析及运算.md",
+    "数学技巧/施瓦兹不等式.md",
+    "衍生定理、原理和推论.md",
+    "量子态演化.md",
+    "量子化方法.md",
+    "数学技巧/WKB近似.md",
+    "原子物理杂谈/Planck黑体辐射.md",
+    "原子物理杂谈/斯特恩盖拉赫实验.md",
+    "原子物理杂谈/弗兰克赫兹实验.md",
+    "原子物理杂谈/光电效应.md",
+    "原子物理杂谈/氢原子谱线.md",
+    "高等量子力学/密度矩阵.md",
+    "数学技巧/线性代数简要.md",
+    "数学技巧/算符函数展开.md",
+    "数学技巧/分离变量法.md",
+    "数学技巧/傅里叶变换.md",
+    "数学技巧/特殊函数.md",
+    "初等量子力学/反射、透射和隧穿效应.md",
+    "数学技巧/泛函分析简要.md",
+    "原子物理杂谈",
+    "高等量子力学/路径积分方法.md",
+    "数学技巧/格林函数法.md",
+    "高等量子力学/测量理论.md",
+    "对称性与Noether定理.md",
+    "高等量子力学",
+    "初等量子力学",
+    "Templates/latexsuite.json",
+    "Templates/新建 文本文档.txt",
+    "表象",
+    "路径积分",
+    "微扰论",
+    "精确可解问题"
+  ]
+}
