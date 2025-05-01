@@ -11,10 +11,14 @@
             "id": "dd8424dee39880a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "量子态演化.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "量子态演化"
             }
           }
         ]
@@ -206,17 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0db0fa59aa61695f",
+  "active": "dd8424dee39880a6",
   "lastOpenFiles": [
+    "量子化方法.md",
+    "衍生定理、原理和推论.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2025-05-01 17.52.11.excalidraw.md",
     "Excalidraw",
     "数学技巧/特殊积分.md",
     "数学技巧/矢量与张量分析及运算.md",
     "数学技巧/施瓦兹不等式.md",
-    "衍生定理、原理和推论.md",
     "量子态演化.md",
-    "量子化方法.md",
     "数学技巧/WKB近似.md",
     "原子物理杂谈/Planck黑体辐射.md",
     "原子物理杂谈/斯特恩盖拉赫实验.md",
