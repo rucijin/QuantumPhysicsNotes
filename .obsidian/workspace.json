@@ -4,18 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "bbde387954a67f19",
+        "id": "788c54a788d9d24c",
         "type": "tabs",
         "children": [
           {
-            "id": "dd8424dee39880a6",
+            "id": "78b5ce83b7736282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "量子态演化.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "量子态演化"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fafefcb53f0b804c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da9c45ae5a2f7081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "量子态演化.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "量子态演化"
@@ -78,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0b9cd2405bb7a110",
@@ -142,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "量子化方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "量子化方法 的大纲"
             }
           },
           {
@@ -210,17 +232,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd8424dee39880a6",
+  "active": "da9c45ae5a2f7081",
   "lastOpenFiles": [
-    "量子化方法.md",
     "衍生定理、原理和推论.md",
+    "量子态演化.md",
+    "对称性与Noether定理.md",
+    "表象/5.自旋表象.md",
+    "表象/4.能量表象.md",
+    "表象/1.表象变换.md",
+    "表象/2.坐标表象.md",
+    "基本假设和数学工具.md",
+    "量子化方法.md",
+    "对易关系和力学量完全集.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2025-05-01 17.52.11.excalidraw.md",
     "Excalidraw",
     "数学技巧/特殊积分.md",
     "数学技巧/矢量与张量分析及运算.md",
     "数学技巧/施瓦兹不等式.md",
-    "量子态演化.md",
     "数学技巧/WKB近似.md",
     "原子物理杂谈/Planck黑体辐射.md",
     "原子物理杂谈/斯特恩盖拉赫实验.md",
@@ -233,13 +262,7 @@
     "数学技巧/分离变量法.md",
     "数学技巧/傅里叶变换.md",
     "数学技巧/特殊函数.md",
-    "初等量子力学/反射、透射和隧穿效应.md",
-    "数学技巧/泛函分析简要.md",
     "原子物理杂谈",
-    "高等量子力学/路径积分方法.md",
-    "数学技巧/格林函数法.md",
-    "高等量子力学/测量理论.md",
-    "对称性与Noether定理.md",
     "高等量子力学",
     "初等量子力学",
     "Templates/latexsuite.json",
