@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3cbb363be5d7a682",
+        "id": "8de10320ca9536f0",
         "type": "tabs",
         "children": [
           {
-            "id": "ee3248cdfd1dc85d",
+            "id": "48f723dc52589bc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "衍生定理、原理和推论.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "衍生定理、原理和推论"
+              "title": "新标签页"
             }
           }
         ]
@@ -79,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 275.5
   },
   "right": {
     "id": "0b9cd2405bb7a110",
@@ -95,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "精确可解问题/自由粒子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "自由粒子 的反向链接列表"
             }
           },
           {
@@ -114,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -185,6 +179,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e095abd33519ee36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 6
@@ -209,49 +213,51 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "ee3248cdfd1dc85d",
+  "active": "eac8f7194202dc84",
   "lastOpenFiles": [
-    "量子态演化.md",
-    "数学技巧/渐近分析.md",
-    "数学技巧/特殊函数.md",
-    "精确可解问题/球型势.md",
-    "精确可解问题/中心力场.md",
-    "初等量子/自旋.md",
-    "微扰论/1.定态非简并微扰.md",
-    "数学技巧/矢量与张量分析及运算.md",
-    "![[谐振子.md",
-    "Pasted image 20250501202642.png",
-    "精确可解问题/方势阱.md",
-    "精确可解问题/谐振子.md",
-    "基本假设和数学工具.md",
-    "量子化方法.md",
-    "对易关系和力学量完全集.md",
-    "对称性与Noether定理.md",
-    "Pasted image 20250501202648.png",
-    "初等量子/概率密度和概率流.md",
-    "未命名.canvas",
-    "初等量子/角动量.md",
-    "初等量子/算符的表示和运算规则.md",
+    "习题/2.力学量算符/2.1.md",
+    "习题/3.表象/3.1.md",
     "衍生定理、原理和推论.md",
-    "初等量子/干涉、衍射.md",
-    "初等量子/反射、透射和隧穿效应.md",
-    "初等量子/磁场中的粒子.md",
-    "高等量子/密度矩阵.md",
-    "高等量子/二次量子化.md",
-    "高等量子/测量理论.md",
-    "高等量子/变分法.md",
-    "Excalidraw",
-    "原子物理杂谈",
-    "高等量子",
-    "初等量子",
-    "Templates/latexsuite.json",
-    "Templates/新建 文本文档.txt",
-    "表象",
-    "路径积分",
-    "微扰论",
-    "精确可解问题"
+    "数学技巧/线性空间与泛函分析简要.md",
+    "数学技巧/特殊积分.md",
+    "数学技巧/傅里叶变换.md",
+    "对易关系和力学量完全集.md",
+    "精确可解问题/球型势.md",
+    "习题/8.散射",
+    "习题/7.全同粒子体系",
+    "习题/6.自旋",
+    "习题/4.三维定态",
+    "习题/2.力学量算符",
+    "习题/5.近似方法",
+    "习题/1.一维定态问题",
+    "习题/3.表象",
+    "习题",
+    "精确可解问题/方势阱.md",
+    "精确可解问题/线性势.md",
+    "精确可解问题/束缚态和散射态概念.md",
+    "精确可解问题/谐振子.md",
+    "精确可解问题/中心力场.md",
+    "精确可解问题/自由粒子.md",
+    "精确可解问题/组合势.md",
+    "数学技巧/特殊函数.md",
+    "数学技巧/WKB近似.md",
+    "微扰论/2.定态简并微扰.md",
+    "对称性与Noether定理.md",
+    "基本假设和数学工具.md",
+    "量子态演化.md",
+    "量子化方法.md",
+    "微扰论/1.定态非简并微扰.md",
+    "数学技巧/施瓦兹不等式.md",
+    "数学技巧/算符函数展开.md",
+    "数学技巧/分离变量法.md",
+    "Pasted image 20250501202642.png",
+    "Pasted image 20250501202648.png",
+    "未命名.canvas",
+    "Excalidraw"
   ]
 }
