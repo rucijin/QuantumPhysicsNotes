@@ -11,10 +11,15 @@
             "id": "48f723dc52589bc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "习题/小抄.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "小抄"
             }
           }
         ]
@@ -109,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "习题/小抄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "小抄 的出链列表"
             }
           },
           {
@@ -218,8 +224,9 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "eac8f7194202dc84",
+  "active": "48f723dc52589bc0",
   "lastOpenFiles": [
+    "习题/小抄.md",
     "习题/2.力学量算符/2.1.md",
     "习题/3.表象/3.1.md",
     "衍生定理、原理和推论.md",
@@ -254,7 +261,6 @@
     "微扰论/1.定态非简并微扰.md",
     "数学技巧/施瓦兹不等式.md",
     "数学技巧/算符函数展开.md",
-    "数学技巧/分离变量法.md",
     "Pasted image 20250501202642.png",
     "Pasted image 20250501202648.png",
     "未命名.canvas",
