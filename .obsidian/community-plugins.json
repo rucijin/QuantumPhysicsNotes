@@ -1,6 +1,5 @@
 [
   "templater-obsidian",
-  "omnisearch",
   "obsidian-latex-suite",
   "obsidian-excalidraw-plugin",
   "dataview",
@@ -11,5 +10,6 @@
   "obsidian-admonition",
   "calendar",
   "obsidian-advanced-slides",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "recent-files-obsidian"
 ]
